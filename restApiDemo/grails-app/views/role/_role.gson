@@ -1,0 +1,7 @@
+import demo.Role
+
+model {
+	Role role
+}
+
+json g.render(role)
